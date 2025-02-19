@@ -11,7 +11,7 @@ This repository provides a pipeline for converting raw images into FAISS-compati
 
 ## Installation
 ```sh
-git clone https://github.com/YOUR_USERNAME/img_to_faiss.git
+git clone https://github.com/Raghulskr12/img_to_faiss.git
 cd img_to_faiss
 pip install -r requirements.txt
 ```
