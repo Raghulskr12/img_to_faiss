@@ -60,6 +60,3 @@ print("Matched Images:", matched_images)
 - If `DeepFace.represent` fails, check if `ArcFace` model is downloaded properly.
 - Use `enforce_detection=False` if faces are not always detected.
 
-## License
-This project is licensed under the MIT License.
-
